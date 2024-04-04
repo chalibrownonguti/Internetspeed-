@@ -1,0 +1,15 @@
+current directory: /home/motari/internetpublic/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.0/ext/stringio
+/home/motari/.rbenv/versions/3.1.4/bin/ruby -I /home/motari/.rbenv/versions/3.1.4/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /home/motari/internetpublic/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.0/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20240404-17146-3t5x4j sitelibdir\=./.gem.20240404-17146-3t5x4j clean
+
+current directory: /home/motari/internetpublic/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.0/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20240404-17146-3t5x4j sitelibdir\=./.gem.20240404-17146-3t5x4j
+compiling stringio.c
+linking shared-object stringio.so
+
+current directory: /home/motari/internetpublic/vendor/bundle/ruby/3.1.0/gems/stringio-3.1.0/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20240404-17146-3t5x4j sitelibdir\=./.gem.20240404-17146-3t5x4j install
+/usr/bin/install -c -m 0755 stringio.so ./.gem.20240404-17146-3t5x4j

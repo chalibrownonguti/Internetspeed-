@@ -1,0 +1,16 @@
+current directory: /home/motari/internetpublic/vendor/bundle/ruby/3.1.0/gems/debug-1.9.2/ext/debug
+/home/motari/.rbenv/versions/3.1.4/bin/ruby -I /home/motari/.rbenv/versions/3.1.4/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /home/motari/internetpublic/vendor/bundle/ruby/3.1.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240404-17146-trj2qe sitelibdir\=./.gem.20240404-17146-trj2qe clean
+
+current directory: /home/motari/internetpublic/vendor/bundle/ruby/3.1.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240404-17146-trj2qe sitelibdir\=./.gem.20240404-17146-trj2qe
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/motari/internetpublic/vendor/bundle/ruby/3.1.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240404-17146-trj2qe sitelibdir\=./.gem.20240404-17146-trj2qe install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20240404-17146-trj2qe/debug
